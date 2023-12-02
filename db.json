@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "hoa",
+      "email": "abc@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "Trần Hoàng",
+      "email": "a22@gmail.com",
+      "password": "11",
+      "comfirmPassword": "11",
+      "id": 2
+    },
+    {
+      "name": "Trần Hoàng",
+      "email": "test1@gmail.com",
+      "password": "111",
+      "comfirmPassword": "111",
+      "id": 3
+    },
+    {
+      "name": "Combo 90k",
+      "email": "test2@gmail.com",
+      "password": "11",
+      "comfirmPassword": "11",
+      "id": 4
+    },
+    {
+      "name": "Combo 138k",
+      "email": "test12@gmail.com",
+      "password": "11",
+      "comfirmPassword": "11",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id":111,
+      "name":"Iphone",
+      "product": [
+        {
+          "id":123,
+          "name":"Iphone 16",
+          "price": 5000
+        }
+      ]
+    },
+    {
+      "id":189,
+      "name":"Samsung",
+      "product": [
+        {
+          "id":125,
+          "name":"Samsung 01",
+          "price": 15000
+        },
+        {
+          "id":120,
+          "name":"Sim 01",
+          "price": 1000
+        }
+
+      ]
+    }
+    
+  ]
+}
